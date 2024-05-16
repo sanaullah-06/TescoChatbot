@@ -1,0 +1,303 @@
+
+
+
+.Greeting_Title
+{
+    font-size: 32px;
+    text-align: center;
+    padding-top: 20px;
+}
+.signIn-text
+{
+    text-align: center;
+    font-size: 20px;
+    color: #666666;
+}
+
+#banner
+{
+    margin-top: 50px;
+}
+#banner img
+{
+    width: 100%;
+    padding: 05px 15px;
+
+}
+#aroundTesco h2
+{
+    text-align: center;
+}
+#SummerBanner
+{
+    padding: 0px;
+    margin: 0px;
+}
+#summer_feels h1
+{
+    text-align: center;
+    font-size: 28px;
+    padding-top: 20px;
+}
+#card_row
+{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.row
+{
+    justify-content: center;
+    margin: 50px 05px;
+}
+.card-body a 
+{
+    color: #007eb3;
+}
+.card
+{
+    background-color: #F6F6F6
+    ;
+}
+#SummerBanner
+{
+    padding: 0px;
+    margin: 0px;
+}
+.banner_text
+{
+    background-color: #F12475;
+    padding: 68px 0px;
+}
+.banner_image img
+{
+    width: 600px;
+    height: 270px;
+   
+}
+#SummerBanner
+{
+    width: 100%;
+}
+.banner-title
+{
+    color: white;
+}
+
+.banner-title, .banner-text
+{
+    color: white;
+    padding: 0px 20px;
+}
+.bannerbtn{
+    background-color: white;
+    margin-left: 20px;
+    padding: 10px 30px;
+    border-radius: 50px;
+    color:  #F12475;
+}
+.banner-body h1, p, a
+{
+    line-height: 37px;
+}
+#TescoValues h1
+{
+    text-align: center;
+}
+.shopBtn
+{
+    padding-top: 45px;
+}
+#content p
+{
+    font-size: 15px;
+    padding: 0px 30px;
+    line-height: 30px;
+}
+#footer
+{
+    background-color: #F6F6F6;
+    padding: 30px;
+}
+#footer_items
+{
+    display: flex;
+    gap: 150px;
+}
+#footer_items h3
+{
+    font-size: 20px;
+    /* text-align: center; */
+}
+
+#footer_items  ul li
+{
+    text-decoration: none;
+    list-style-type: none;
+    line-height: 35px;
+    text-align: left;
+}
+#footer
+{
+    border: 1px solid #d7d5d5;
+}
+.slide1 
+{
+    background-color: #00539F;
+    width: 50%;
+    padding: 60px;
+}
+
+.slide2
+{
+    background-color: #00539F;
+    width: 50%;
+    padding: 60px;
+}
+
+.slide3
+{
+    background-color: #28A494;
+    width: 50%;
+    padding: 60px;
+}
+#slider
+{
+    width: 100%;
+    padding: 15px;
+}
+.row
+{
+    gap: 0px;
+}
+.Slideimage
+{
+    padding-left: 0px;
+    border: 1px solid  #d7d5d5;
+}
+.togglebutton
+{
+    background-color: #00539F;
+    border-radius: 30px;
+    padding: 15px;
+    font-size: 5px;
+}
+.content
+{
+    width: 600px;
+}
+.carousel_caption h1 
+{
+    color: white;
+}
+
+.carousel_caption p
+{
+    color: white;
+    font-size: 20px;
+}
+.carousel_caption button
+{
+    width: 30%;
+    border: none;
+    font-size: 18px;
+    padding: 10px;
+    border-radius: 20px;
+    background-color: white;
+ 
+}
+.babyBtn
+{
+    width: 100%;
+    border: none;
+    font-size: 18px;
+    padding: 10px;
+    border-radius: 20px;
+    background-color: rgb(255, 0, 0);
+}
+
+#header {
+    width: 100%; /* Ensures the header spans the entire width */
+  }
+  
+  .topBar
+  {
+    background-color: #00539F;
+    padding: 04px;
+  }
+  .topBar ul {
+    list-style-type: none; /* Removes bullet points from the list */
+    margin: 0;
+    padding-left: 600px;
+  }
+
+
+.items ul 
+{
+    display: flex;
+    gap: 40px;
+    align-items: right;
+    
+}
+.items ul li 
+{
+    list-style: none;
+    color: white;
+    border-left: 1px solid white;
+    border-right: 1px solid white;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-weight: 500;
+}
+.topBar
+{
+    text-align: right;
+}
+
+.logo
+{
+    width: 60%;
+}
+#options
+{
+    padding: 10px 20px;
+}
+
+.LogoSection
+{
+    margin-top: 20px;
+    display: flex;
+    padding: 10px;
+}
+.menuItem ul
+{
+    display: flex;
+    gap: 35px;
+}
+.menuItem ul li a
+{
+    color:#00539F;
+    font-weight: 500;
+
+}
+.menuItem ul li 
+{
+    color:#00539F;
+    list-style: none;
+}
+.Search
+{
+    display: flex;
+    gap: 20px;
+}
+form input
+{
+    width: 300px;
+    padding: 8px;
+    border: 1px solid black;
+}
+
+#header
+{
+    border-bottom: 1px solid black;
+}
